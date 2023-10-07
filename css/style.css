@@ -1,0 +1,166 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Roboto-Regular, "Helvetica Neue", Helvetica, Tahoma, Arial,
+    Sans-serif;
+}
+.daraz-nav-tabes {
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+}
+.daraz-nav-tabes li a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 10px;
+}
+.daraz-nav {
+  height: 90px;
+  background-color: #f85606 !important;
+}
+.daraz-logo {
+  height: 48px;
+  width: 120px;
+}
+.daraz-search {
+  width: 748px;
+  height: 38px;
+  position: relative;
+}
+.daraz-search-in {
+  border-radius: 10px;
+  box-shadow: none !important;
+  border: none !important;
+}
+.daraz-search-icon {
+  position: absolute;
+  background-color: #fb915c7c;
+  padding: 5px 10px;
+  border-radius: 5px;
+  right: 15px;
+  bottom: 5px;
+}
+.daraz-login label {
+  font-family: "Franklin Gothic Medium", Arial, sans-serif;
+  margin-left: 10px;
+  font-weight: 5;
+  color: #ffffffd6;
+}
+.daraz-nav-left-tabes {
+  height: 360px;
+  width: 260px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 20px;
+}
+.daraz-left-nav {
+  margin-left: 1px;
+}
+.baner{
+    width: 1188px;
+    height: 215px;
+    border-top-left-radius: 200px;
+    border-bottom-left-radius: 200px;
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.Daraz-baner{
+  position: relative;
+}
+.Daraz-baner-button{
+  padding: 10px 50px;
+  color: #f85606;
+  background-color:rgba(37, 235, 235, 0.98);
+  font-weight: 200;
+  border-radius: 50px ;
+  position:absolute;
+  top: 55%;
+  bottom: 25%;
+  right: 90px;
+  border: none;
+  font-weight: bolder;
+}
+.daraz-nav-left-tabes li a {
+  text-align: left;
+  font-size: 13px;
+  color: #757575 !important;
+}
+.daraz-nav-left-tabes li a:hover {
+  color: #f85606 !important;
+}
+.daraz-safe {
+  height: 40px;
+  width: 100%;
+  background-color: #fdd7c588;
+  border-radius: 10px;
+  list-style-type: none;
+  padding: 6px;
+}
+.daraz-safe li {
+  cursor: pointer;
+}
+.daraz-safe li img {
+  height: 20px;
+  width: 20px;
+}
+.daraz-safe-text {
+  text-decoration: none;
+  color: #000;
+}
+.daraz-Everyday {
+  list-style-type: none;
+  height: 140px;
+  width: 100%;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 10px;
+}
+.dara-Everyday-low {
+  margin-left: 35px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.daraz-Everyday-text {
+  font-size: 15px;
+  text-align: center;
+  color: #000;
+  text-decoration: none;
+}
+.carde {
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  margin-bottom: 2px;
+  padding-top: 10px;
+  padding-left: 50px;
+}
+.carde:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 2.95px 2.95px 3.6px;
+}
+.Daraz-Flash-Slae {
+  color: #f85606;
+  border-color: #f85606;
+  float: right;
+  border-radius: 0px;
+  background-color: #fff;
+}
+.Daraz-Flash-Slae:hover {
+  background-color: #f85606;
+  border-color: #f85606;
+}
+.sale-box {
+  border-color: #fff;
+}
+.sale-box:hover {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.daraz-just {
+  height: 320px;
+  width: 200px;
+  border-radius: 0px;
+  border-color: #fff;
+}
+.daraz-just:hover{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
